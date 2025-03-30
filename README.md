@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mohamed Ali Yacoubi! 👋</h1>
+<p align="center">
+  <b>Full-Stack Software Engineer | Passionate about Scalable Web Apps & Cloud Computing 🚀</b>
+</p>
 
-<!--
-**yacoubii/yacoubii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yacoubii&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yacoubii?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me  
+- 💻 **Currently:** Full-Stack R&D Engineer at [Smile France](https://www.smile.eu)  
+- 🏆 **Valedictorian** in Dual Master’s: **Computer Science & Software Engineering**  
+- 🚀 **Tech Stack:** JavaScript, TypeScript, Node.js, Vue.js React.js, Gitlab CI/CD, Kubernetes, Docker, GraphQL, and more!  
+- 🎯 **Interests:** Web Development, Cloud Computing, Graphic Design, Video Editing  
+
+---
+
+
+## 🤝 Let's Connect!  
+I’m always happy to **exchange ideas, discuss technology trends, and connect with like-minded professionals.** Feel free to reach out!  
+
+📫 **Contact Me:**  
+[📧 Email](mailto:yacoubi.mohamedali@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/yacoubimohamedali/)
+
+---
